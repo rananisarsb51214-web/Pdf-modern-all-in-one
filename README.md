@@ -39,3 +39,9 @@
     <p class="text-sm text-gray-500">Auto-generate creator assets</p>
   </div>
 </div>
+real-time.
+Modern Trendy Design: The preview panel features a high-end design with gradients, glassmorphism effects, and smooth hover animations.
+Dynamic Project Management: Easily add or remove projects with a clean, intuitive interface.
+Social & Sharing Integration: Includes built-in buttons for copying your profile link and native mobile sharing, along with stylized social media icons.
+Responsive Preview: The portfolio is designed to look great on both desktop and mobile devices, perfect for a "link-in-bio" use case.
+You can find the Portfolio Builder under the AI Module (or by searching for it) on your dashboard. It uses the same polished aesthetic as the rest of the Pdf modern all-in-one toolkit.
